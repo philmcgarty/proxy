@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@koa/cors": "^3.3.0",
+    "koa": "^2.13.4",
+    "koa-proxies": "^0.12.2"
+  }
+}
